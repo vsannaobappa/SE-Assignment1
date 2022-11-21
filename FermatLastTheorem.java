@@ -2,8 +2,8 @@
 //FermatLastTheorem.jar
 //FermatLastTheorem.java, Parameters.java, missingOutput.txt
 //After running FermatLastTheorem.java, the results will be sent to the missingOutput.txt
-//Vanitha Sannaobappa, Madala, Sai Lakshmi
-//vanithasannaobappa@lewisu.edu, sailakshmimadala@lewisu.edu
+//Vanitha Sannaobappa
+//vanithasannaobappa@lewisu.edu
 //Software Engineering, CPSC 60500, Sections 3
 //Nov 11, 2022
 //This program searches for "near misses" for Fermat's last theorem
